@@ -1,4 +1,4 @@
-module github.com/ntec-io/MinecraftServer
+module github.com/ntec-io/MCServerLauncher
 
 go 1.15
 
